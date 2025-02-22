@@ -1,0 +1,42 @@
+/* External CSS */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+#enroll form {
+    padding: 20px;
+    border: 1px solid #eee;
+    margin-top: 20px;
+    background-color: #f9f9f9;
+}
+
+footer {
+    background-color: #f0f0f0;
+    padding: 10px 0;
+}
+
+/* Tag Selector */
+p {
+  line-height: 1.6;
+}
+
+/* Class Selector */
+.text-center {
+  text-align: center;
+}
+
+/* ID Selector */
+#enroll {
+  padding-top: 20px;
+}
